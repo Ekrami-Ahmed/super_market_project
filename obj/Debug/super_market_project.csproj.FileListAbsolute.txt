@@ -1,0 +1,52 @@
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\bin\Debug\super_market_project.exe.config
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\bin\Debug\super_market_project.exe
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\bin\Debug\super_market_project.pdb
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\bin\Debug\Oracle.DataAccess.dll
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\obj\Debug\super_market_project.csprojResolveAssemblyReference.cache
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\obj\Debug\super_market_project.Form1.resources
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\obj\Debug\super_market_project.Properties.Resources.resources
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\obj\Debug\super_market_project.csproj.GenerateResource.Cache
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\obj\Debug\super_market_project.exe
+c:\users\nada\documents\visual studio 2013\Projects\super_market_project\super_market_project\obj\Debug\super_market_project.pdb
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\bin\Debug\super_market_project.exe.config
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\bin\Debug\super_market_project.exe
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\bin\Debug\super_market_project.pdb
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.csproj.AssemblyReference.cache
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.Form1.resources
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.Properties.Resources.resources
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.csproj.GenerateResource.cache
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.csproj.CoreCompileInputs.cache
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.exe
+C:\Users\alish\OneDrive\Desktop\super_market_project\super_market_project\obj\Debug\super_market_project.pdb
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.exe.config
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.exe
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.pdb
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.exe
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.pdb
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.csprojResolveAssemblyReference.cache
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form1.resources
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Properties.Resources.resources
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.csproj.GenerateResource.Cache
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form2.resources
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form3.resources
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form4.resources
+C:\Users\nada\Downloads\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form5.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.exe.config
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.exe
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.pdb
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.exe
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.pdb
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form1.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form2.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form3.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form4.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form5.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Properties.Resources.resources
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.Form6.resources
+C:\Users\hp\Desktop\orcl\super_market_project\super_market_project\super_market_project\bin\Debug\super_market_project.exe.config
+C:\Users\hp\Desktop\orcl\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.exe
+C:\Users\hp\Desktop\orcl\super_market_project\super_market_project\super_market_project\obj\Debug\super_market_project.pdb
